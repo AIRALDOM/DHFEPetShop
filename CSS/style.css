@@ -1,0 +1,36 @@
+footer { background-color:rgb(60,35,19) ; height: 400px; display:center; 
+
+}
+
+.centrar-footer {display:flex;
+                align-items: center;
+
+} 
+
+.fondo-banner { 
+background-image: url ('./img/Background.png ');
+background-size: contain;
+}
+
+.bullets-estilos { list-style-type: none;
+                font-family: 'Roboto', sans-serif;
+
+}
+
+.posicion-logo {
+    display:block;
+    margin-left: 1300px;
+    margin-right: 100px ;
+}
+
+.tipografia {
+            font-size: 20px;
+            color: #FFFFFF;
+            font-weight: 700;
+}
+
+.subtitulos-footer {
+            font-size: 10px;
+            color:#8A8787;
+            font-weight: 700;
+}
