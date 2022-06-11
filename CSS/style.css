@@ -1,6 +1,65 @@
+/*Generales*/
+* {
+    font-family: Roboto, 'Times New Roman', Times, serif;
+
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+ul {
+    display: flex;
+    list-style: none;
+}
+
+li {
+    display: flex;
+    align-items: center;
+}
+
+
+/* Top */
+
+.top {
+    background-color: #222222;
+    color:#F3F3F3;
+    height: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.botonDesplegar {
+    height: 20px;
+}
+
+.logoFront{
+    margin-left: 40px ;
+}
+
+/* header */
+
+.header {
+    background-color: #F0A83E;
+    color: white;
+    height: 62px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+
+
+
+/**/
+
 footer { background-color:rgb(60,35,19) ; height: 400px; display:center; 
 
 }
+
 
 .centrar-footer {display:flex;
                 align-items: center;
